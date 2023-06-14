@@ -1,0 +1,4 @@
+#Tue Jun 13 11:57:28 PKT 2023
+base.0=D\:\\study\\FYP\\Rescue app with mvc\\firstapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

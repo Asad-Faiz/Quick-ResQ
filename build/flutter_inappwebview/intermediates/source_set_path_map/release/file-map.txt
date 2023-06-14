@@ -1,0 +1,28 @@
+com.pichillilorenzo.flutter_inappwebview-jetified-emoji2-views-helper-1.2.0-0 C:\Users\asadf\.gradle\caches\transforms-3\262d29974252013d6424eb26b08b1a1c\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-core-ktx-1.8.0-1 C:\Users\asadf\.gradle\caches\transforms-3\3298bbd13eeea1ff93d7a43ecc9a5ef0\transformed\jetified-core-ktx-1.8.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-emoji2-1.2.0-2 C:\Users\asadf\.gradle\caches\transforms-3\498fb189d0eaee70cfd6141e24b99c97\transformed\jetified-emoji2-1.2.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-annotation-experimental-1.1.0-3 C:\Users\asadf\.gradle\caches\transforms-3\4da258d73ad21ac3b77ed1f360b8c1be\transformed\jetified-annotation-experimental-1.1.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-startup-runtime-1.1.1-4 C:\Users\asadf\.gradle\caches\transforms-3\6aa9b31eaee48f02cdcaaf7c1b9d979a\transformed\jetified-startup-runtime-1.1.1\res
+com.pichillilorenzo.flutter_inappwebview-fragment-1.3.6-5 C:\Users\asadf\.gradle\caches\transforms-3\73e672ed645d0382b4294971b1d79104\transformed\fragment-1.3.6\res
+com.pichillilorenzo.flutter_inappwebview-jetified-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\asadf\.gradle\caches\transforms-3\7dd19a9cf92f065efe114d446eef47c7\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-lifecycle-viewmodel-2.5.1-7 C:\Users\asadf\.gradle\caches\transforms-3\8a0fc6da908b8419c69cdf7343877606\transformed\lifecycle-viewmodel-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-jetified-lifecycle-process-2.4.1-8 C:\Users\asadf\.gradle\caches\transforms-3\8ce4d3f144f288b426d960a6096ab936\transformed\jetified-lifecycle-process-2.4.1\res
+com.pichillilorenzo.flutter_inappwebview-browser-1.4.0-9 C:\Users\asadf\.gradle\caches\transforms-3\a89bd0e64120b064165fe7d2635bd104\transformed\browser-1.4.0\res
+com.pichillilorenzo.flutter_inappwebview-swiperefreshlayout-1.1.0-10 C:\Users\asadf\.gradle\caches\transforms-3\af39c7b734b8424b11c7a899fb1b6e17\transformed\swiperefreshlayout-1.1.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-activity-1.5.1-11 C:\Users\asadf\.gradle\caches\transforms-3\b18ececc3e8db17a8a9b03259ffc04ef\transformed\jetified-activity-1.5.1\res
+com.pichillilorenzo.flutter_inappwebview-appcompat-1.5.1-12 C:\Users\asadf\.gradle\caches\transforms-3\b778455bbdad7cfb824ce6abc50400eb\transformed\appcompat-1.5.1\res
+com.pichillilorenzo.flutter_inappwebview-core-1.8.0-13 C:\Users\asadf\.gradle\caches\transforms-3\c8d2d810977204c2dd920bfa022b47e3\transformed\core-1.8.0\res
+com.pichillilorenzo.flutter_inappwebview-lifecycle-runtime-2.5.1-14 C:\Users\asadf\.gradle\caches\transforms-3\e064a8085f8c1f9d7399fe0529e77538\transformed\lifecycle-runtime-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-webkit-1.5.0-15 C:\Users\asadf\.gradle\caches\transforms-3\e46b37a718e0ca35705b49c658164e29\transformed\webkit-1.5.0\res
+com.pichillilorenzo.flutter_inappwebview-lifecycle-livedata-core-2.5.1-16 C:\Users\asadf\.gradle\caches\transforms-3\ebfad5677e83d9663620eef8a46b8b16\transformed\lifecycle-livedata-core-2.5.1\res
+com.pichillilorenzo.flutter_inappwebview-jetified-window-java-1.0.0-beta04-17 C:\Users\asadf\.gradle\caches\transforms-3\f0b974b758349e9c54fcc6f9656f330a\transformed\jetified-window-java-1.0.0-beta04\res
+com.pichillilorenzo.flutter_inappwebview-jetified-savedstate-1.2.0-18 C:\Users\asadf\.gradle\caches\transforms-3\f829f142f9a33d67fbc18996b0456f59\transformed\jetified-savedstate-1.2.0\res
+com.pichillilorenzo.flutter_inappwebview-jetified-appcompat-resources-1.5.1-19 C:\Users\asadf\.gradle\caches\transforms-3\fc0b8c6cafbe1530549deaeeef07d0eb\transformed\jetified-appcompat-resources-1.5.1\res
+com.pichillilorenzo.flutter_inappwebview-jetified-window-1.0.0-beta04-20 C:\Users\asadf\.gradle\caches\transforms-3\fd5f419e863560aa62f941d72f6221aa\transformed\jetified-window-1.0.0-beta04\res
+com.pichillilorenzo.flutter_inappwebview-main-21 C:\Users\asadf\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_inappwebview-5.7.2+3\android\src\main\res
+com.pichillilorenzo.flutter_inappwebview-release-22 C:\Users\asadf\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_inappwebview-5.7.2+3\android\src\release\res
+com.pichillilorenzo.flutter_inappwebview-resValues-23 D:\study\FYP\Rescue app with mvc\firstapp\build\flutter_inappwebview\generated\res\resValues\release
+com.pichillilorenzo.flutter_inappwebview-rs-24 D:\study\FYP\Rescue app with mvc\firstapp\build\flutter_inappwebview\generated\res\rs\release
+com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-25 D:\study\FYP\Rescue app with mvc\firstapp\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-26 D:\study\FYP\Rescue app with mvc\firstapp\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.pichillilorenzo.flutter_inappwebview-merged_res-27 D:\study\FYP\Rescue app with mvc\firstapp\build\flutter_inappwebview\intermediates\merged_res\release

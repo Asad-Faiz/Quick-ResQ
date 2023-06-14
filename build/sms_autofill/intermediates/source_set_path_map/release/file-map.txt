@@ -1,0 +1,15 @@
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-0 C:\Users\asadf\.gradle\caches\transforms-3\229346e8d4f1156fe35d3497b172cc43\transformed\jetified-play-services-base-17.5.0\res
+com.jaumard.smsautofill.sms_autofill-jetified-annotation-experimental-1.1.0-1 C:\Users\asadf\.gradle\caches\transforms-3\4da258d73ad21ac3b77ed1f360b8c1be\transformed\jetified-annotation-experimental-1.1.0\res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-basement-17.5.0-2 C:\Users\asadf\.gradle\caches\transforms-3\71c3536654ca7bb1f17903edccd86038\transformed\jetified-play-services-basement-17.5.0\res
+com.jaumard.smsautofill.sms_autofill-core-1.6.0-3 C:\Users\asadf\.gradle\caches\transforms-3\dc66a9e887fa197d342a9170a296fb1f\transformed\core-1.6.0\res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-auth-19.2.0-4 C:\Users\asadf\.gradle\caches\transforms-3\eb85e73c4d9bec3aea4dd32faab6abf1\transformed\jetified-play-services-auth-19.2.0\res
+com.jaumard.smsautofill.sms_autofill-jetified-window-java-1.0.0-beta04-5 C:\Users\asadf\.gradle\caches\transforms-3\f0b974b758349e9c54fcc6f9656f330a\transformed\jetified-window-java-1.0.0-beta04\res
+com.jaumard.smsautofill.sms_autofill-jetified-window-1.0.0-beta04-6 C:\Users\asadf\.gradle\caches\transforms-3\fd5f419e863560aa62f941d72f6221aa\transformed\jetified-window-1.0.0-beta04\res
+com.jaumard.smsautofill.sms_autofill-main-7 C:\Users\asadf\AppData\Local\Pub\Cache\hosted\pub.dev\sms_autofill-2.3.0\android\src\main\res
+com.jaumard.smsautofill.sms_autofill-release-8 C:\Users\asadf\AppData\Local\Pub\Cache\hosted\pub.dev\sms_autofill-2.3.0\android\src\release\res
+com.jaumard.smsautofill.sms_autofill-pngs-9 D:\study\FYP\Rescue app with mvc\firstapp\build\sms_autofill\generated\res\pngs\release
+com.jaumard.smsautofill.sms_autofill-resValues-10 D:\study\FYP\Rescue app with mvc\firstapp\build\sms_autofill\generated\res\resValues\release
+com.jaumard.smsautofill.sms_autofill-rs-11 D:\study\FYP\Rescue app with mvc\firstapp\build\sms_autofill\generated\res\rs\release
+com.jaumard.smsautofill.sms_autofill-mergeReleaseResources-12 D:\study\FYP\Rescue app with mvc\firstapp\build\sms_autofill\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.jaumard.smsautofill.sms_autofill-mergeReleaseResources-13 D:\study\FYP\Rescue app with mvc\firstapp\build\sms_autofill\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.jaumard.smsautofill.sms_autofill-merged_res-14 D:\study\FYP\Rescue app with mvc\firstapp\build\sms_autofill\intermediates\merged_res\release

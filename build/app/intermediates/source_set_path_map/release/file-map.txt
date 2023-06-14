@@ -1,0 +1,48 @@
+com.example.firstapp-jetified-profileinstaller-1.3.0-0 C:\Users\asadf\.gradle\caches\transforms-3\034f1bf8463995f274637543b2c242ec\transformed\jetified-profileinstaller-1.3.0\res
+com.example.firstapp-lifecycle-viewmodel-2.6.1-1 C:\Users\asadf\.gradle\caches\transforms-3\13d16ed937dd041d81329241d4b78cd2\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.firstapp-jetified-emoji2-views-helper-1.2.0-2 C:\Users\asadf\.gradle\caches\transforms-3\262d29974252013d6424eb26b08b1a1c\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.firstapp-jetified-lifecycle-viewmodel-savedstate-2.6.1-3 C:\Users\asadf\.gradle\caches\transforms-3\2ec4553475c4f0232070de21c7e09320\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.firstapp-lifecycle-livedata-core-2.6.1-4 C:\Users\asadf\.gradle\caches\transforms-3\3b2b7bb4063c396ed1867c49929a7ec5\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.firstapp-jetified-emoji2-1.2.0-5 C:\Users\asadf\.gradle\caches\transforms-3\498fb189d0eaee70cfd6141e24b99c97\transformed\jetified-emoji2-1.2.0\res
+com.example.firstapp-jetified-annotation-experimental-1.3.0-6 C:\Users\asadf\.gradle\caches\transforms-3\647cff0f3d8343f998cbea034f4b6f46\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.firstapp-jetified-startup-runtime-1.1.1-7 C:\Users\asadf\.gradle\caches\transforms-3\6aa9b31eaee48f02cdcaaf7c1b9d979a\transformed\jetified-startup-runtime-1.1.1\res
+com.example.firstapp-fragment-1.3.6-8 C:\Users\asadf\.gradle\caches\transforms-3\73e672ed645d0382b4294971b1d79104\transformed\fragment-1.3.6\res
+com.example.firstapp-jetified-activity-1.7.0-9 C:\Users\asadf\.gradle\caches\transforms-3\745f4ebf00161b8aea137d7a9c698270\transformed\jetified-activity-1.7.0\res
+com.example.firstapp-core-runtime-2.2.0-10 C:\Users\asadf\.gradle\caches\transforms-3\82ca68d265e987eadd808cfb81141d62\transformed\core-runtime-2.2.0\res
+com.example.firstapp-jetified-savedstate-1.2.1-11 C:\Users\asadf\.gradle\caches\transforms-3\88e63778c6f7ca4ab04d75cc44a9a51d\transformed\jetified-savedstate-1.2.1\res
+com.example.firstapp-browser-1.4.0-12 C:\Users\asadf\.gradle\caches\transforms-3\a89bd0e64120b064165fe7d2635bd104\transformed\browser-1.4.0\res
+com.example.firstapp-swiperefreshlayout-1.1.0-13 C:\Users\asadf\.gradle\caches\transforms-3\af39c7b734b8424b11c7a899fb1b6e17\transformed\swiperefreshlayout-1.1.0\res
+com.example.firstapp-appcompat-1.5.1-14 C:\Users\asadf\.gradle\caches\transforms-3\b778455bbdad7cfb824ce6abc50400eb\transformed\appcompat-1.5.1\res
+com.example.firstapp-core-1.9.0-15 C:\Users\asadf\.gradle\caches\transforms-3\beb05c6d16f102e70ef856749431a27b\transformed\core-1.9.0\res
+com.example.firstapp-lifecycle-runtime-2.6.1-16 C:\Users\asadf\.gradle\caches\transforms-3\ce89a44f0266dd5f975b1d3fd5d158f5\transformed\lifecycle-runtime-2.6.1\res
+com.example.firstapp-jetified-firebase-common-20.3.2-17 C:\Users\asadf\.gradle\caches\transforms-3\d0329f9e423b96e827a6bc0ab4cc7266\transformed\jetified-firebase-common-20.3.2\res
+com.example.firstapp-webkit-1.5.0-18 C:\Users\asadf\.gradle\caches\transforms-3\e46b37a718e0ca35705b49c658164e29\transformed\webkit-1.5.0\res
+com.example.firstapp-jetified-play-services-auth-19.2.0-19 C:\Users\asadf\.gradle\caches\transforms-3\eb85e73c4d9bec3aea4dd32faab6abf1\transformed\jetified-play-services-auth-19.2.0\res
+com.example.firstapp-jetified-core-ktx-1.9.0-20 C:\Users\asadf\.gradle\caches\transforms-3\ec9402b058d99a4a829af3b1d5ba3ff5\transformed\jetified-core-ktx-1.9.0\res
+com.example.firstapp-lifecycle-livedata-2.6.1-21 C:\Users\asadf\.gradle\caches\transforms-3\ecdebe15d96414b8083b23f70d0fc0e6\transformed\lifecycle-livedata-2.6.1\res
+com.example.firstapp-jetified-play-services-base-18.1.0-22 C:\Users\asadf\.gradle\caches\transforms-3\f091477dd27fce0330aeff16d7e7738a\transformed\jetified-play-services-base-18.1.0\res
+com.example.firstapp-jetified-window-java-1.0.0-beta04-23 C:\Users\asadf\.gradle\caches\transforms-3\f0b974b758349e9c54fcc6f9656f330a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.firstapp-jetified-lifecycle-process-2.6.1-24 C:\Users\asadf\.gradle\caches\transforms-3\f2e149966848f2f0d2e7ee124ac62d56\transformed\jetified-lifecycle-process-2.6.1\res
+com.example.firstapp-jetified-appcompat-resources-1.5.1-25 C:\Users\asadf\.gradle\caches\transforms-3\fc0b8c6cafbe1530549deaeeef07d0eb\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.firstapp-jetified-window-1.0.0-beta04-26 C:\Users\asadf\.gradle\caches\transforms-3\fd5f419e863560aa62f941d72f6221aa\transformed\jetified-window-1.0.0-beta04\res
+com.example.firstapp-jetified-play-services-basement-18.1.0-27 C:\Users\asadf\.gradle\caches\transforms-3\ff69d175c49cfa9394e8ca832c98affc\transformed\jetified-play-services-basement-18.1.0\res
+com.example.firstapp-main-28 D:\study\FYP\Rescue app with mvc\firstapp\android\app\src\main\res
+com.example.firstapp-release-29 D:\study\FYP\Rescue app with mvc\firstapp\android\app\src\release\res
+com.example.firstapp-google-services-30 D:\study\FYP\Rescue app with mvc\firstapp\build\app\generated\res\google-services\release
+com.example.firstapp-pngs-31 D:\study\FYP\Rescue app with mvc\firstapp\build\app\generated\res\pngs\release
+com.example.firstapp-resValues-32 D:\study\FYP\Rescue app with mvc\firstapp\build\app\generated\res\resValues\release
+com.example.firstapp-rs-33 D:\study\FYP\Rescue app with mvc\firstapp\build\app\generated\res\rs\release
+com.example.firstapp-mergeReleaseResources-34 D:\study\FYP\Rescue app with mvc\firstapp\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.firstapp-mergeReleaseResources-35 D:\study\FYP\Rescue app with mvc\firstapp\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.firstapp-merged_res-36 D:\study\FYP\Rescue app with mvc\firstapp\build\app\intermediates\merged_res\release
+com.example.firstapp-packaged_res-37 D:\study\FYP\Rescue app with mvc\firstapp\build\cloud_firestore\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-38 D:\study\FYP\Rescue app with mvc\firstapp\build\firebase_auth\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-39 D:\study\FYP\Rescue app with mvc\firstapp\build\firebase_core\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-40 D:\study\FYP\Rescue app with mvc\firstapp\build\firebase_storage\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-41 D:\study\FYP\Rescue app with mvc\firstapp\build\flutter_inappwebview\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-42 D:\study\FYP\Rescue app with mvc\firstapp\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-43 D:\study\FYP\Rescue app with mvc\firstapp\build\geolocator_android\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-44 D:\study\FYP\Rescue app with mvc\firstapp\build\image_picker_android\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-45 D:\study\FYP\Rescue app with mvc\firstapp\build\permission_handler_android\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-46 D:\study\FYP\Rescue app with mvc\firstapp\build\sms_autofill\intermediates\packaged_res\release
+com.example.firstapp-packaged_res-47 D:\study\FYP\Rescue app with mvc\firstapp\build\url_launcher_android\intermediates\packaged_res\release
